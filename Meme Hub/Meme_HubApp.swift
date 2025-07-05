@@ -2,7 +2,7 @@
 //  Meme_HubApp.swift
 //  Meme Hub
 //
-//  Created by Abdelrahman Yasser on 02/07/2025.
+//  Created by Abdelrahman Yasser on 05/07/2025.
 //
 
 import SwiftUI
@@ -12,7 +12,7 @@ import SwiftData
 struct Meme_HubApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
-            Item.self,
+            FavoriteMeme.self,
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
 
@@ -25,7 +25,7 @@ struct Meme_HubApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MemesListView()
         }
         .modelContainer(sharedModelContainer)
     }
