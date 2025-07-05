@@ -82,7 +82,7 @@ Explore the key features and interface of the app through the following screensh
 
 Made as practice after finishing [**“iPhone Apps for Complete Beginners - Swift, SwiftUI & iOS17”**](https://www.udemy.com/course/iphone-apps-for-complete-beginners-make-ios-17-apps/?srsltid=AfmBOoq7IygRaO-ze5S9PzQpniFkcvjQ6WoOG2RyySveifhrBgs2zx_r&couponCode=2021PM25) course
 
-📄 [View Certificate]()
+📄 [View Certificate](https://www.udemy.com/certificate/UC-b16cf9dd-4876-4ea7-9cef-208a8e42e098/)
 
 ---
 
